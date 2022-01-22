@@ -3,6 +3,4 @@
 - Use for automated CI / CD pipleline
 - Use for Docker image creation
 
-
-
-update for initial commit
+-Change for assessment to show push and jenkins kickoff
